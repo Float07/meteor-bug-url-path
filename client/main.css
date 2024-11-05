@@ -1,0 +1,9 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  background-image: url('/images/test.png');
+}
+
+#react-target {
+  background-image: url('/images/test.png');
+}
